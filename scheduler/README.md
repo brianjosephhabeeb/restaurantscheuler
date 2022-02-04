@@ -1,6 +1,10 @@
 # Restaurant Crib Sheet
 A daily checklist for the manager on duty to view employees scheduled for the entire day.  One last check to ensure coverage is adequate for the day, employees are on time, working in the appropriately designated role, and view labor costs for the day.
 
+
+
+
+
 ### Inspiration :exploding_head:
 ______
 As a former restaurant manager handwritten lists become all to familiar.  It is helpful to have documents easily accessible to stay organized and ready for the day ahead.  But things change very quickly and sometimes without proper notice.  Having a tool that is readable yet uncomplicated to update would be very beneficial to the manager leading a shift.
@@ -82,5 +86,22 @@ ______
 
 ###Implemented
 ![Screen Shot 2022-02-04 at 11 41 43 AM](https://user-images.githubusercontent.com/94800802/152569667-c8731798-3ad8-467e-be6f-64e5e6b2f4d1.png)
+
+_____
+
+#Challenges
+1. Starting with a project that was way beyond my ability and not being realistic with the time it would take to complete.
+2. Truly comprehending entity relationships and how a table gets built out.
+3. Starting small and constantly testing code
+4. Linking postman with my code
+5. Logic in my service class for implementing CRUD in postman
+
+#Silver lining
+1. Gained a better understanding of Java
+2. Learned a great deal about the flow of product design
+3. Got close to finishing after wasting several days on a concept that was too big
+4. Better KISS practices
+5. Better committing practices
+
 
 
