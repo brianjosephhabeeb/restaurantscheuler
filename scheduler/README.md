@@ -2,7 +2,7 @@
 A daily checklist for the manager on duty to view employees scheduled for the entire day.  One last check to ensure coverage is adequate for the day, employees are on time, working in the appropriately designated role, and view labor costs for the day.
 
 
-
+![](../../../../Documents/Funny-Restaurant-memes-3.jpeg)
 
 
 ### Inspiration :exploding_head:
