@@ -78,8 +78,9 @@ _______
 ## ERD Diagram(Original and Actual)
 ______
 ###Original
-!(../../../../Desktop/Screen Shot 2022-01-28 at 5.50.50 PM.png)
-
+<img width="1342" alt="Screen Shot 2022-01-28 at 5 50 50 PM" src="https://user-images.githubusercontent.com/94800802/152569632-f88c4340-3d48-4296-975b-7724cc797433.png">
 
 ###Implemented
-!(../../../../Desktop/Screen Shot 2022-02-04 at 11.41.43 AM.png)
+![Screen Shot 2022-02-04 at 11 41 43 AM](https://user-images.githubusercontent.com/94800802/152569667-c8731798-3ad8-467e-be6f-64e5e6b2f4d1.png)
+
+
