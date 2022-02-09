@@ -89,19 +89,26 @@ ______
 
 _____
 
-#Challenges
+# Challenges
 1. Starting with a project that was way beyond my ability and not being realistic with the time it would take to complete.
 2. Truly comprehending entity relationships and how a table gets built out.
 3. Starting small and constantly testing code
 4. Linking postman with my code
 5. Logic in my service class for implementing CRUD in postman
 
-#Silver lining
+# Silver lining
 1. Gained a better understanding of Java
 2. Learned a great deal about the flow of product design
 3. Got close to finishing after wasting several days on a concept that was too big
 4. Better KISS practices
 5. Better committing practices
+
+# Future Functionality
+1. Admin level who has full functionality
+2. User level who can read and update scheduled employees
+3. Expected sales vs labor cost report
+4. In time and out time available to view
+5. Overtime warnings
 
 
 

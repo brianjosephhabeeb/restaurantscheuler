@@ -1,5 +1,6 @@
 package com.example.scheduler.model;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import org.hibernate.annotations.LazyCollection;
 import org.hibernate.annotations.LazyCollectionOption;
 
@@ -21,6 +22,12 @@ public class Schedule{
     @LazyCollection(LazyCollectionOption.FALSE)
     private List<Employee> employeeList;
 
+    @ManyToOne
+    @JoinColumn(name = "user_id")
+    @JsonIgnore
+    private User user;
+
+
     public Schedule(Long id, String date) {
         this.id = id;
         this.date = date;
@@ -28,6 +35,8 @@ public class Schedule{
 
     public Schedule() {
     }
+
+
 
     public Long getId() {
         return id;

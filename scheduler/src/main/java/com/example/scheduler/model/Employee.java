@@ -22,10 +22,23 @@ public class Employee {
     @Column
     private Boolean isAvailable;
 
+    public User getUser() {
+        return user;
+    }
+    public void setUser(User user) {
+        this.user = user;
+    }
+
+    @ManyToOne
+    @JoinColumn(name = "user_id")
+    @JsonIgnore
+    private User user;
+
     @JsonIgnore
     @ManyToOne
     @JoinColumn(name = "schedule_id")
     private Schedule schedule;
+
 
     public Schedule getSchedule() {
         return schedule;
@@ -44,6 +57,8 @@ public class Employee {
 
     public Employee() {
     }
+
+
 
     public Long getId() {
         return id;
